@@ -2,8 +2,8 @@
 <h3 align="center">A passionate FullStack developer from India</h3>
 
 
-# 💫 About Me:s
-🌱I'm Proficient in Java, C/C++ and Spring Boot<br> And currently learning Javascript,React<br><br>💬 Ask me about Web development,Technical stuff and programming concepts<br><br>📫 How to reach me : Email- joshishivam108@gmail.com 
+# 💫 About Me:
+🌱I'm Proficient in Java, C/C++ and Spring Boot<br> - And currently learning Javascript, React<br><br>💬 Ask me about Web development,Technical stuff and programming concepts<br><br>📫 How to reach me : Email- joshishivam108@gmail.com 
 
 
 ## 🌐 Socials:
