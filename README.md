@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🌱I'm Proficient in Java, C/C++<br> - And currently learning Javascript, React<br><br>💬 Ask me about Web development,Technical stuff and programming concepts<br><br>📫 How to reach me : Email- joshishivam108@gmail.com 
+🌱I'm Proficient in Java, C/C++ and currently learning Javascript,ReactJS<br><br>💬 Ask me about Web development,Technical stuff and programming concepts<br><br>📫 How to reach me : Email- joshishivam108@gmail.com 
 
 
 ## 🌐 Socials:
